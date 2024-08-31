@@ -2,7 +2,7 @@
 
 # Text-to-Speech (TTS) Project
 
-![TTS Banner](https://your-image-link.com/banner.png) <!-- Add a relevant banner image here -->
+
 
 ## Overview
 
